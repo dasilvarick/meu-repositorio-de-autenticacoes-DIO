@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+
+.construcao {
+    color: black;
+    font-size: 2em; /* Tamanho grande da fonte */
+    text-align: center; /* Centraliza o texto */
+    margin-top: 20%; /* Ajusta a posição vertical do texto */
+}
